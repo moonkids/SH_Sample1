@@ -1,0 +1,19 @@
+PODS:
+  - Devise (1.1.0):
+    - ngrvalidator (~> 1.1.0)
+    - UICKeyChainStore (~> 1.1)
+    - XLForm (~> 2.1)
+  - ngrvalidator (1.1.0)
+  - UICKeyChainStore (1.1.1)
+  - XLForm (2.2.0)
+
+DEPENDENCIES:
+  - Devise (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  Devise: 6f505eeada5fd219edea561d7c8ba13698d8388b
+  ngrvalidator: cc3ca5536c63b973613f5d588446d46a46451d67
+  UICKeyChainStore: 891bcd2fe687c92db8e648cba035c4e662ffa43e
+  XLForm: 799e61ef230f519914e722bf032b19a597223c19
+
+COCOAPODS: 0.38.2
